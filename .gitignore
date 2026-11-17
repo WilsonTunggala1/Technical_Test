@@ -1,0 +1,21 @@
+# CatBoost training logs
+catboost_info/
+
+# Editor settings
+.vscode/
+
+# Jupyter Notebook temporary checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Operating system files
+.DS_Store
+Thumbs.db
